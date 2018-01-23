@@ -82,6 +82,7 @@ Lesson 5: Scientific python ecosystem (3h)
 	- Python random generator
 	- Pandas
 	- Seaborn and others
+	- unit testing framework
 
 Lesson 6: Docker and dockerhub (3h)
 -----------------------------------------------------------------
@@ -132,8 +133,11 @@ Lesson 12: Machine learning (3h)
 	- An introduction to deep learning
 	- scikit-learn and ni-learn 
 
-Recap and miscellaneous
+Lesson 13: Recap and miscellaneous
 -----------------------------------------------------------------
+	- Reproducibility best practices
+	- Collaboration best practices
+	- Improving and teaching this module 
 
 ![How to draw an owl?][owl] 
 
