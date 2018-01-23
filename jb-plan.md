@@ -2,7 +2,8 @@
 Title : Neuro Data Science
 ============================
 
-key words: teaching, mcgill
+key words: data-science, teaching, python, statistical toolbox, reproducible science, 
+computational toolbox 
 
 Syllabus:
 -----------
@@ -45,11 +46,10 @@ Introduction to the course: (1h)
 
 Lesson 1: Epistemiolgy and lesson from the past (2h)
 -----------------------------------------------------------------
-	- A word on Popper
-		* falsifiability
-	- A word on Kuhn  
-		* what makes a scientific revolution ?
+	- A word on Popper (falsifiability)
+	- A word on Kuhn  (what makes a scientific revolution)
 	- Beyond Popper and Kuhn, lessons for today's neuroscience
+	- Reproducibility in life science
 
 Part II: The computational tools
 ============================================
