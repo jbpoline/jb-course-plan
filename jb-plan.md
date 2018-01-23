@@ -137,7 +137,7 @@ Recap and miscellaneous
 
 ![How to draw an owl?][owl] 
 
-[owl]:/home/jb/documents/talks_travels/material/draw-an-owl.jpg "How to avoid this issue?"
+[owl]:draw-an-owl.jpg "How to avoid this issue?"
 
 ==============================================================================
 
@@ -151,8 +151,5 @@ Lesson ??: missing stuff (3h)
 	- AWS S3 / U2 
 	- web communication / backend DB
 
-Material and notes:
----------------------
-http://welcome.stepik.org/?utm_source=newsletter&utm_medium=email&utm_campaign=dec_eng&utm_content=teachers
 
 
