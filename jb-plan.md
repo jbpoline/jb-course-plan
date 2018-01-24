@@ -13,10 +13,10 @@ procedures for their investigations. Data science now offers a key set of
 tools and methods to efficiently analyse, visualize and interpret neuroscience
 data. Concurrently, there is a growing concern in the life sciences that many
 results produced are difficult or even impossible to reproduce. This is
-referred to as the reproducibility crisis, which concerns most of biomedical
-fields [F. Collin]. 
+referred to as the reproducibility crisis, which concerns most biomedical
+fields ([F. Collin](https://www.nature.com/news/policy-nih-plans-to-enhance-reproducibility-1.14586) 2014).
 
-This course is bringing together computational and analytical tools and methods.
+This course will bring together computational and analytical tools and methods.
 It will teach students how to best use the fundamentals of data science in
 their daily work to produce reproducible results. We will take examples in
 neuroimaging or imaging genetics, and see how to use computational tools,
@@ -26,12 +26,12 @@ computationally reproducible. While a large part of this course is language
 agnostic, we will teach and use python throughout the course and work on small
 projects. 
 
-The course will require that you have some basic programming experience and some
-notion of statistical analysis, but will be aimed at life scientists
+The course will require that participants have some basic programming experience
+and some notion of statistical analysis, but will be aimed at life scientists
 (neurologists, psychiatrists, pyschologists, neuroscientists) who wish to
 improve their research practices, or students who want an introduction to
 data science with examples in neuroscience and neuroimaging. We will strive to avoid
-the classic problem described in Figure 1. 
+the classic problem described in Figure 1.
  
 Part I: Introduction
 ============================================
@@ -66,7 +66,7 @@ Lesson 2: Computational Basics : shell and git (3h)
 Lesson 3: Computational Basics : python for programmers (3h)
 -----------------------------------------------------------------
 	- Python as a software glue
-	- Python key data structure
+	- Python key data structures
 	- Beyond simple python: class, decorators, getter/setters, etc
 
 Lesson 4: Git distributed and collaboratif (3h)
@@ -150,7 +150,6 @@ Lesson 13: Recap and miscellaneous
 Lesson ??: missing stuff (3h)
 -----------------------------------------------------------------
 	- jupyter notebook  
-	- unit testing 
 	- Continuous Integration
 	- AWS S3 / U2 
 	- web communication / backend DB
